@@ -10,7 +10,7 @@ def jogar():
     numero_secreto = random.randrange(1, 101)
     total_de_tentativas = 0
     pontos = 100
-        
+    
     #Pergunta ao usuário qual o nível de dificuldade ele deseja, dependendo da opção ganha mais vidas
     print("Qual o nível de dificuldade?")
     print("(1) Fácil / (2) Médio / (3)Difícil")
